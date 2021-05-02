@@ -1,4 +1,3 @@
 # InvestTest
 
-3 Slides of Figma Template
-Requires formatting
+3 Slides of Figma Template and require formatting
